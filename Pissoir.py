@@ -18,7 +18,7 @@ welches_pissoir(pissoir1)
 #       var1 += 1
 #   elif i == 1:
 #       if var1 > grSlot
-    #       grSlot = var1
-    #       grSlots[i-1] = var1
-    #       var1 = 0
-    #   elif var1 == grSlot
+#           grSlot = var1
+#           grSlots[i-1] = var1
+#           var1 = 0
+#       elif var1 == grSlot
